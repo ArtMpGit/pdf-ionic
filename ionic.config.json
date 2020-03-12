@@ -1,5 +1,7 @@
 {
   "name": "pdfTable",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
